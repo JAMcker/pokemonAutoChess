@@ -298,12 +298,21 @@
     "SHIELDS_DOWN": "Escudo Limitado",
     "SHIELDS_UP": "Escudo Ilimitado",
     "SANDSEAR_STORM": "Simún de arena",
+    "WILDBOLT_STORM": "Electormenta",
+    "BLEAKWIND_STORM": "Vendaval gélido",
+    "SPRINGTIDE_STORM": "Ciclón primavera",
+    "AURA_WHEEL": "Rueda Aural",
     "LICK": "Lametón",
     "FURY_SWIPES": "Cortes Furia",
     "TICKLE": "Cosquillas",
     "AROMATHERAPY": "Aromaterapia",
     "DETECT": "Detección",
-    "SUNSTEEL_STRIKE": "Simún de arena"
+    "SPACIAL_REND": "Corte vacío",
+    "MULTI_ATTACK": "Multiataque",
+    "ACCELEROCK": "Roca Veloz",
+    "PETAL_BLIZZARD": "Tormenta Floral",
+    "SUNSTEEL_STRIKE": "Meteoimpacto",
+    "MOONGEIST_BEAM": "Rayo Umbrío"
   },
   "pkm": {
     "DEFAULT": "MissingNo.",
