@@ -11,6 +11,10 @@
     "HATCH": "Eclosionado",
     "SPECIAL": "Especial"
   },
+  "pool": {
+    "additional": "Adicional",
+    "regional": "Regional"
+  },
   "damage": {
     "SPECIAL": "Daño especial",
     "PHYSICAL": "Daño físico",
@@ -135,6 +139,7 @@
     "MISTY_SURGE": "Nebulogénesis",
     "SKY_ATTACK": "Ataque Aéreo",
     "ILLUSION": "Ilusión",
+    "SHELTER": "Retracción",
     "SMOG": "Neblina",
     "SLUDGE": "Residuos",
     "SLUDGE_WAVE": "Onda Tóxica",
@@ -276,6 +281,7 @@
     "FISHIOUS_REND": "Branquibocado",
     "RECOVER": "Recuperación",
     "CURSE": "Maldición",
+    "DOOM_DESIRE": "Deseo Oculto",
     "TIME_TRAVEL": "Viaje Temporal",
     "POLTERGEIST": "Poltergeist",
     "GOLD_RUSH": "Giga Monedas",
@@ -291,11 +297,13 @@
     "KOWTOW_CLEAVE": "Genufendiente",
     "SHIELDS_DOWN": "Escudo Limitado",
     "SHIELDS_UP": "Escudo Ilimitado",
+    "SANDSEAR_STORM": "Simún de arena",
     "LICK": "Lametón",
     "FURY_SWIPES": "Cortes Furia",
     "TICKLE": "Cosquillas",
     "AROMATHERAPY": "Aromaterapia",
-    "DETECT": "Detección"
+    "DETECT": "Detección",
+    "SUNSTEEL_STRIKE": "Simún de arena"
   },
   "pkm": {
     "DEFAULT": "MissingNo.",
