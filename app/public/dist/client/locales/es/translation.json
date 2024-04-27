@@ -312,7 +312,12 @@
     "ACCELEROCK": "Roca Veloz",
     "PETAL_BLIZZARD": "Tormenta Floral",
     "SUNSTEEL_STRIKE": "Meteoimpacto",
-    "MOONGEIST_BEAM": "Rayo Umbrío"
+    "MOONGEIST_BEAM": "Rayo Umbrío",
+    "FLEUR_CANNON": "Cañón Floral",
+    "SPIRIT_BREAK": "Choque Anímico",
+    "SHEER_COLD": "Frío Polar",
+    "EXTREME_SPEED": "Velocidad Extrema",
+    "ZAP_CANNON": "Electrocañón"
   },
   "pkm": {
     "DEFAULT": "MissingNo.",
