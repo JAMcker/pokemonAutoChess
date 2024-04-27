@@ -317,7 +317,20 @@
     "SPIRIT_BREAK": "Choque Anímico",
     "SHEER_COLD": "Frío Polar",
     "EXTREME_SPEED": "Velocidad Extrema",
-    "ZAP_CANNON": "Electrocañón"
+    "ZAP_CANNON": "Electrocañón",
+    "PSYCHO_BOOST": "Psicoataque",
+    "ICE_HAMMER": "Martillo Hielo",
+    "POLLEN_PUFF": "Bola de Polen",
+    "PSYSTRIKE": "Onda Mental",
+    "FACADE": "Imagen",
+    "DREAM_EATER": "Comesueños",
+    "SPARK": "Chispa",
+    "CRUNCH": "Triturar",
+    "CROSS_POISON": "Veneno X",
+    "DOUBLE_EDGE": "Doble Filo",
+    "FIRE_FANG": "Colmillo Ígneo",
+    "ICE_FANG": "Colmillo Hielo",
+    "THUNDER_FANG": "Colmillo Rayo"
   },
   "pkm": {
     "DEFAULT": "MissingNo.",
